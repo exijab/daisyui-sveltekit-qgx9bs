@@ -2,8 +2,6 @@
 	import '../app.css';
 </script>
 
-<slot />
-
 <div class="relative flex min-h-screen flex-col justify-center overflow-hidden bg-gray-50 py-6 sm:py-12">
   <div class="relative bg-white px-6 pt-10 pb-8 shadow-xl ring-1 ring-gray-900/5 sm:mx-auto sm:max-w-lg sm:rounded-lg sm:px-10">
     <div class="mx-auto max-w-md">
@@ -13,7 +11,9 @@
           <p>An advanced online playground for Tailwind CSS, including support for things like:</p>
           <ul class="space-y-4">
             <li class="flex items-center">
+
 							<slot />
+
             </li>
             <li class="flex items-center">
               <svg class="h-6 w-6 flex-none fill-sky-100 stroke-sky-500 stroke-2" stroke-linecap="round" stroke-linejoin="round">
