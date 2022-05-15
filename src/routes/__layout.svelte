@@ -8,6 +8,7 @@
 </script>
 
 <div class="relative flex min-h-screen flex-col justify-center overflow-hidden bg-gray-50 py-6 sm:py-12">
+	<div class="absolute inset-0 bg-[url(/grid.svg)] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]"></div>
   <div class="relative bg-white px-6 pt-10 pb-8 shadow-xl ring-2 ring-black rounded-sm drop-shadow-[3px_3px_0px_rgba(0,0,0,1)] sm:mx-auto sm:max-w-2xl sm:px-10">
     <div class="mx-auto max-w-2xl">
 			<header class="sm:p-5 bg-sky-200 font-bold text-5xl text-sky-900 ring-2 ring-black rounded-sm drop-shadow-[3px_3px_0px_rgba(0,0,0,1)]">
