@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" preserveAspectRatio="xMidYMid" viewBox="0 0 76 76" style="display:block;background-repeat-y:initial;background-repeat-x:initial">
+
+  <g transform="scale(0.3)" style="fill: rgb(17 24 39)">
+    <g>
+      <circle cx="63.9" cy="64.1" r="40"/>
+    </g>
+    <g>
+      <circle cx="191.9" cy="192.1" r="40"/>
+    </g>
+  </g>
+</svg>
