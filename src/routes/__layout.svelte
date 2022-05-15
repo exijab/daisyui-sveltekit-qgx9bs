@@ -17,12 +17,11 @@
       <div class="divide-y divide-gray-300/50">
         <div class="space-y-6 py-8 text-base leading-7 text-gray-600">
 
-          <p>An advanced online playground for Tailwind CSS, including support for things like:</p>
+					<slot />
+
           <ul class="space-y-4">
             <li class="flex items-center">
-
-							<slot />
-
+							Testing, 1, 2...
             </li>
             <li class="flex items-center">
               <svg class="h-6 w-6 flex-none fill-sky-100 stroke-sky-500 stroke-2" stroke-linecap="round" stroke-linejoin="round">
