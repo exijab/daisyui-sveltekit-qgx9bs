@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>Temp Title</title>
+	<meta name="description" content="" />
+</svelte:head>
+
 <script>
 	import '../app.css';
 </script>
